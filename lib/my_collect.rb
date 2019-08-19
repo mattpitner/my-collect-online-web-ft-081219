@@ -8,7 +8,7 @@ def my_collect(array)
  yield(array[counter])
  << new_array
  
- counter =+
+ counter =+ 1 
  end
 
 
