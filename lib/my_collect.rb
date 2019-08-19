@@ -9,6 +9,7 @@ def my_collect(array)
  
  counter =+ 1 
  end
+ new_array
 
 
 end
