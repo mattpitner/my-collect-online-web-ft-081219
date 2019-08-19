@@ -1,9 +1,9 @@
 
 
 
-my_collect(array)
+def my_collect(array)
 
-
+  
 
 
 end
